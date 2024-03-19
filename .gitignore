@@ -28,3 +28,5 @@ tmp/*
 !__assets__/*
 !__assets__/visual_results/*
 !requirements.txt
+!requirements-windows.txt
+venv/
